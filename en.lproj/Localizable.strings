@@ -1,0 +1,163 @@
+/* Localized versions of Info.plist keys */
+
+//Buttons & TextField & TextVIew
+"Done" = "Done";
+"E-mail or nickname" = "E-mail or nickname";
+"Password" = "Password";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"E-mail" = "E-mail";
+"Confirm e-mail" = "Confirm e-mail";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"like" = "Like";
+"likes" = "Likes";
+"comment" = "Comment";
+"comments" = "Comments";
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+"Loading" = "Loading..";
+"Send" = "Send";
+"Title's post" = "Title's post..";
+"Details" = "Details..";
+"Users" = "Users";
+"Image" = "Picture";
+"Link Video" = "Video Link";
+"Update" = "Update";
+"Not now" = "Not now";
+
+//From nib and storyboard
+"btJoinFB" = "LOGIN WITH FACEBOOK";
+"btSignIn" = "CREATE NEW ACCOUNT";
+"btResetPass" = "Forgot Password?";
+"btChooseImageDone" = "Done";
+"btTakePhoto" = "TAKE A PICTURE";
+"btChoosePhoto" = "OPEN LIBRARY";
+"btPhotoFacebook" = "FROM FACEBOOK";
+"btPhotoDefault" = "RESET DEFAULT";
+"btLogout" = "Logout";
+"btFollow" = "FOLLOW";
+"btUnfollow" = "UNFOLLOW";
+"btEdit" = "EDIT";
+"btShare" = "Send";
+"btReply" = "Reply";
+"btLike" = "Like me";
+"btNotLike" = "Don't like me";
+"btComment" = "Comment";
+
+"lblPost" = "Post";
+"lblFollowers" = "Followers";
+"lblFollowing" = "Following";
+"lblComment" = "Comment..";
+"lblFFFacebook" = "Find friends from Facebook";
+"lblFFAddressBook" = "Find friends from the Address Book";
+"lblConnectFacebook" = "Connect your Facebook's profile";
+
+"footerFacebook" = "By connecting your Facebook profile, will not posted anything on your home on Facebook. Just your friends who sign up will be able to more easily see that you're here too. You can also access the application using the 'Login with Facebook' button.";
+
+
+//Titles (also navigation bar)
+"titleProfile" = "PROFILE";
+"titleFollowing" = "FOLLOWING";
+"titleFollower" = "FOLLOWERS";
+"titleLike" = "LIKE";
+"titleSignUp" = "SIGN UP";
+"titleNotification" = "NOTIFICATIONS";
+"titleShare" = "SHARE";
+"titleChooseImage" = "PROFILE";
+"titleComments" = "COMMENTS";
+"titleEditProfile" = "EDIT";
+"titleSettings" = "SETTINGS";
+"titleMatchingFacebook" = "FACEBOOK MATCHING";
+"titleMatchingAddressBook" = "CONTACT'S MATCHING";
+
+//Title button tab bar
+"btTabBarExplore" = "Explore";
+"btTabBarFollowing" = "Following";
+"btTabBarProfile" = "Profile";
+"btTabBarNotification" = "Notifications";
+
+//Table section
+"sectionProfile" = "PROFILE";
+"sectionEmail" = "E-MAIL";
+"sectionPassword" = "PASSWORD";
+"sectionFindFriends" = "FIND FRIENDS";
+"sectionConnectFacebook" = "CONNECT FACEBOOK";
+
+//Info
+"Login" = "Login..";
+"Access permitted!" = "Access permitted!";
+"Reset" = "Reset..";
+"Refresh" = "Refresh..";
+"Sign up" = "Sign up..";
+"Setting" = "Setting..";
+"Delete post" = "Delete post..";
+"Hidden post" = "Hidden post..";
+"Delete comment" = "Delete comment..";
+"Sending" = "Sending..";
+"Loading" = "Loading..";
+"Matching" = "Matching..";
+"Facebook connected!" = "Facebook connected!";
+"Connect" = "Connect..";
+
+//Notifications
+"NOTIF_TYPE_LIKE_ARTICLE" = "";
+"NOTIF_TYPE_LIKE" = "like your post \"";
+"NOTIF_TYPE_COMMENT" = "has commented your post: \"";
+"NOTIF_TYPE_FOLLOWED" = "is following you.";
+"NOTIF_TYPE_TAGGED_POST" = "has tagged you in a post \"";
+"NOTIF_TYPE_TAGGED_COMMENT" = "has tagged you in a comment \"";
+
+//Alert Title
+"Connection error" = "Connection error";
+"Server error" = "Server error";
+"Service error" = "Service error";
+"Choose attachment" = "Choose an attachment:";
+
+//Alert message
+"messageConnectionError" = "There was an error connecting to the server. Make sure you have an active internet connection or try again later, thank you.";
+"messageLoginError" = "Your login's session is invalid, login again to %@!";
+"messageDatabaseError" = "There was an error connecting to the database, try again later, thank you.";
+"errorAccountData" = "E-mail and/or password wrong!";
+"errorConfirmEmail" = "Confirm e-mail sent with success!";
+"messageConfirmEmail" = "You havn't confirmed your e-mail address, do you want receive confirm e-mail again?";
+"errorResetPass" = "Insert your nickname or your e-mail!";
+"errorUserNotExists" = "User not exists!";
+"errorMail" = "There was an error, try again later or report the problem to the staff.";
+"messageResetPass" = "We sent you a link to reset password, to your e-mail address, thank you.";
+"errorEditAccount" = "There was an error editing the profile, try again later, thank you.";
+"errorCreateAccount" = "C'è stato un errore nella registrazione, riprova più tardi, grazie.";
+"errorSession" = "Your login's session is invalid, login again to %@!";
+"messageDownloadFacebook" = "Download from Facebook..";
+"messageSendingPost" = "Sending post, wait for it to finish before sending another one.";
+"errorNicknameNotExists" = "There is no user with this nickname.";
+"errorEmailInApp" = "Your device doesn't supports in-app e-mail.";
+"messageNotUserEmail" = "Apologize, but this user hasn't the e-mail address setted.";
+"messageConfirmDeletePost" = "Do you want really delete this post?";
+"messageConfirmHidePost" = "Do you want really hide this post?";
+"errorSendingEmail" = "There was an error sending e-mail. Check your device's settings and try again, thank you!";
+"messageConfirmDeleteComment" = "Do you want really hide this comment?";
+"errorAccessToDeletedPost" = "This post was deleted!";
+"messageNoMatching" = "No matching!";
+"messageConnectFacebook" = "You haven't connected your Facebook's profile. Do you want to do this now?";
+"messageFbUserExists" = "There is another user that use this Facebook's profile!";
+"messageVersionOld" = "Sorry, but the version of the application you are using is too old. Update it for free.";
+"messageInsertVideoLink" = "Insert the link of a youtube's video:";
+
+//Resistration Alert message
+"INVALIDname" = "Insert a valid name, thank you.";
+"INVALIDsurname" = "Insert a valid surname, thank you.";
+"EXISTemail" = "The inserted e-mail already exists, choose another one, thank you.";
+"INVALIDpass" = "Invalid password: it must be long at least 6 characters and it can contains only letters, numbers and the symbols dot and dash.";
+"INVALIDmail" = "Invalid e-mail: insert a valid e-mail (ex. example@gmail.com)";
+"INEQUALpass" = "The passwords are inequal.";
+"INEQUALmail" = "The e-mails are inequal.";
+"EXISTnick" = "The chosen nickname already exists, choose another one.";
+"INVALIDnick" = "The chosen nickname is invalid: it must contains at least 3 and at most 20 characters.";
+"INVALIDtitlePost" = "Insert a title long at least %d characters.";
+"INVALIDdescrPost" = "Insert a description long at least %d characters.";
+"ERRORonlyTitlePost" = "Your post can't contains just a title!";
+"INVALIDmediaPost" = "Link invalid: you can just to insert youtube videos!";
+
+
+

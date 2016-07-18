@@ -1,0 +1,28 @@
+//
+// Prefix header for all source files of the 'startMe' target in the 'startMe' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <FacebookSDK/FacebookSDK.h>
+    #import "Utility.h"
+    #import "JSON.h"
+    #import "DataManager.h"
+    #import "MBProgressHUD.h"
+    #import "ASIHTTPRequest.h"
+    #import "ASIFormDataRequest.h"
+    #import "CustomViewController.h"
+    #import "CustomTableViewController.h"
+    #import "DateManipulator.h"
+    #import "CustomTableView.h"
+    #import "Notification.h"
+    #import "RoundCornerImageView.h"
+    #import "UIBAlertView.h"
+#endif
